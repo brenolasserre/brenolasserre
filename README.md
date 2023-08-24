@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">Software Developer </h3>
+<h1 align="center">Hola 👋, Breno Lasserre</h1>
+<br><p>📚 Actualmente estoy estudiando la carrera de Certified Tech Developer en Digital House </p>
+<p>👨🏼‍💻 Tengo conocimientos en el desarrollo Web Full Stack, y me especializo en el desarrollo Front End. </p>
 
-<!--
-**lasserrebreno/lasserrebreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡Algunos lenguajes y librerias con las que he trabajado:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ Javascript | TypeScript | TypeScript | HTML & CSS | Tailwind CSS 
+
+🌱 Actualmente aprendiendo React, y Node.JS
+
+📫 Me pueden contactar por email lasserrebreno@gmail.com
