@@ -1,1 +1,1 @@
-![d75be8be20e0b37e6dd56de7fdc98ee1](https://github.com/brenolasserre/brenolasserre/assets/28848242/7d4a18ab-39f8-41be-8f0a-6626c96aa512)
+![2qju](https://github.com/brenolasserre/brenolasserre/assets/28848242/4e083fca-3847-4f58-b801-69223488bd13)
