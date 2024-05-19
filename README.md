@@ -1,13 +1,1 @@
-<h3 align="center">Software Developer </h3>
-<h1 align="center">Hola 👋, soy Breno Lasserre</h1>
-<br><p>📚 Actualmente estoy estudiando la carrera <a href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer"> Certified Tech Developer</a> en Digital House </p>
-<p>👨🏼‍💻 Soy desarrollador Web, especializandome en el desarrollo Front End. </p>
-
-⚡Algunos lenguajes y librerias con las que he trabajado:
-
-
-⚛️ Javascript | React | TypeScript | HTML & CSS | SASS | Tailwind | WPO | SEO
-
-🌱 Actualmente aprendiendo <strong>Next.JS</strong>
-
-📫 Me pueden contactar por email lasserrebreno@gmail.com
+![d75be8be20e0b37e6dd56de7fdc98ee1](https://github.com/brenolasserre/brenolasserre/assets/28848242/7d4a18ab-39f8-41be-8f0a-6626c96aa512)
